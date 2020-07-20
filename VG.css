@@ -1,0 +1,36 @@
+body{
+   background-color:#62000A;	
+}
+.nav{
+	height:60px;
+	background-color:black;
+}
+.nav h1{
+	display:inline-block;
+	position:absolute;
+	left:5;
+	color:#D9A000;
+}
+.nav ul{
+	position:absolute;
+    right:5px;
+}
+.nav ul li{
+	display:inline-block;
+}
+.nav ul li a{
+	color:#797A7E;
+	padding:5px;
+}
+.nav ul li a:hover{
+	color:#EE2537;
+    background-color:#3B3B3B;
+}
+p{
+	color:EE4948;
+	font-family:algerian;
+	font-size:
+}
+h2{
+	color:blue;
+}
